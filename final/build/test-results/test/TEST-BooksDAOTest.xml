@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BooksDAOTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-03-05T21:52:37" hostname="vagrant-ubuntu-trusty-64" time="0.655">
+  <properties/>
+  <testcase name="testDao" classname="BooksDAOTest" time="0.655"/>
+  <system-out><![CDATA[null
+null
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

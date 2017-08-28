@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GetBooksResourcesTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-03-08T11:59:59" hostname="vagrant-ubuntu-trusty-64" time="0.112">
+  <properties/>
+  <testcase name="testGetTwoBooks" classname="GetBooksResourcesTest" time="0.078"/>
+  <testcase name="testGetOneBook" classname="GetBooksResourcesTest" time="0.033"/>
+  <system-out><![CDATA[[{"id":null,"author":"J.K. Rowling","title":"Harry Potter","genre":null,"price":0.0,"publishDate":null,"description":null},{"id":null,"author":"Hans Rudolf","title":"Get zhe Flammenwerfer, Hans!","genre":null,"price":0.0,"publishDate":null,"description":null}]
+[{"id":null,"author":"J.K. Rowling","title":"Harry Potter","genre":null,"price":0.0,"publishDate":null,"description":null}]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
